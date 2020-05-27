@@ -7,7 +7,7 @@ body {
     height:260px;
     padding: 20px 10px 250px 0;
 }
-.meteor-container h2{
+.meteor-container h1{
  text-align:center;
   color:#eef;
   padding-left:280px;
@@ -317,7 +317,7 @@ body {
              animation-iteration-count: infinite;
      display: inline-block;
    }
-   .meteor-container h2{
+   .meteor-container h1{
  text-align:center;
   color:#eef;
   padding-left:-30px;
