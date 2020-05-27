@@ -318,9 +318,10 @@ body {
      display: inline-block;
    }
    .meteor-container h1{
+     
  text-align:center;
   color:#eef;
-  padding-left:-30px;
+  white-space:nowap;
      font-size:14px;
 }
 
