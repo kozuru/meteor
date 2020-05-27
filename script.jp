@@ -1,4 +1,4 @@
-$(function() {
+//$(function() {
 var theme = new Howl({
   src: ['https://s3-us-west-2.amazonaws.com/s.cdpn.io/596723/knight-rider.mp3'],
   loop: true
@@ -6,4 +6,4 @@ var theme = new Howl({
 
 theme.play();
 
-});
+//});
