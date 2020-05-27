@@ -8,18 +8,18 @@ body {
     padding: 20px 10px 250px 0;
 }
 .meteor-container h2{
-  text-align:center;
-  margin:3px 0;
+ text-align:center;
   color:#eef;
+  padding-left:280px;
 }
 .godblade img{
-  margin-top:-174px;
+  margin-top:-171.8px;
   margin-left:43.5%;
 }
 .kitt {
   position: relative;
   top:40px;
-  left:20%;
+  left:15%;
   padding: 0px 3px 0  5px;
   margin: 0 auto;
   max-width: 260px;
@@ -278,10 +278,11 @@ body {
   .kitt {
     position: relative;
     top:40px;
-    left:-90%;
+    left:0%;
     padding: 0px 3px 0  5px;
     margin: 0 auto;
     max-width: 280px;
+    transform:scale(0.8,0.8);
    }
    .meteor-container{
      max-width: 280px;
@@ -290,8 +291,8 @@ body {
    }
    .godblade img{
 
-     margin-top:-173px;
-     margin-left:46%;
+     margin-top:-172.5px;
+     margin-left:43.1%;
    }
    .lights {
      position: relative;
@@ -316,5 +317,10 @@ body {
              animation-iteration-count: infinite;
      display: inline-block;
    }
+   .meteor-container h2{
+ text-align:center;
+  color:#eef;
+  padding-left:0px;
+}
 
 }
